@@ -1,0 +1,2 @@
+## Personal Website for Sebastian Monzon ##
+This is a portfolio for showcasing my skills, projects, and background. Utilizes code snippits of my creation from scratch to showcase what I'm capable of producing.
